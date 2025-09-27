@@ -5,10 +5,10 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "start": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "start": "nuxt dev"
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.14.0",
